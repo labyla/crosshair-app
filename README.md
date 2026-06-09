@@ -1,6 +1,6 @@
 # Crosshair App
 
-"Crosshair App" is a Windows desktop utility for drawing a customizable crosshair over a selected application window. It uses C++, GLFW, OpenGL, GLAD, and Dear ImGui.
+A Windows desktop utility for drawing a customizable crosshair over a selected application window. It uses C++, GLFW, OpenGL, GLAD, and Dear ImGui.
 
 https://github.com/user-attachments/assets/9ad9c47f-1221-40cc-b3d2-95e705353ada
 
